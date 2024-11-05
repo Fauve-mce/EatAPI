@@ -108,19 +108,18 @@ input:focus, .header-searsh-filter-button:hover {
     flex-direction: column;
     gap: 20px;
     margin-top: 20px;
-    height: 0px;
     padding-bottom: 0px;
 }
 
 #results h2{
+    display: flex;
+    justify-content: center;
     font-style: italic;
     font-weight: 100;
     text-transform: lowercase;
     font-size: 16px;
     margin-top: 70px;
-    margin-left: 20px;
-    text-align: left;
-    color: #e59345;
+    color: #91a02f;
 }
 
 .grid-wrapper {
@@ -163,13 +162,14 @@ h3{
 }
 
 h6{
-    margin-top:50px;
-    margin-left: 250px;
+    display: flex;
+    justify-content: center;
+    margin-top:70px;
     text-transform: lowercase;
     font-style: italic;
     font-weight: 100;
     font-size: 14px;
-    color: black;
+    color: #e59345;
 }
 
 h4{
