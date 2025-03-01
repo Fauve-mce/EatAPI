@@ -60,10 +60,10 @@ Pendant le développement d'EatAPI, plusieurs points ont été abordés :
 - Design responsive : Mise en place d'une grille flexible en CSS pour une meilleure expérience sur mobile et desktop.
 - Validation des entrées : Vérification de la saisie utilisateur pour éviter les recherches vides et améliorer l'expérience.
 
-**Défis rencontrés**
+- **Défis rencontrés**
 Empêcher l'affichage de toutes les recettes lors d'une recherche vide.
 Gérer les cas où l'API ne renvoie aucun résultat et afficher un message d'information.
-**Solutions apportées**
+- **Solutions apportées**
 Ajout d'une condition pour vérifier que l'utilisateur a saisi un ingrédient avant d'appeler l'API.
 Implémentation d'une vérification dans displayResults pour afficher "Aucun résultat trouvé" en cas d'absence de données.
 
@@ -73,7 +73,7 @@ Voici le logo de l'application EatAPI : ![EatAPI](./logo-EatAPI-2.svg)
 
 ## 🌐 Démo en ligne
 
-Essayez la version déployée ici : [EatAPI](https://fauve-mce.github.io/EatAPI/)
+Essayez la version déployée ici : [Explore-EatAPI](https://fauve-mce.github.io/EatAPI/)
 
 
 
