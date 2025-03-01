@@ -20,7 +20,7 @@ L'application propose une interface moderne, simple et responsive, idéale pour 
 ## 📸 Aperçu du projet
 
 
-## 📂 Structure du 
+## 📂 Structure du projet
 
 ## 🚀 Technologies utilisées
 
