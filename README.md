@@ -65,7 +65,7 @@ Implémentation d'une vérification dans displayResults pour afficher "Aucun ré
 
 ## 🖼️ Logo
 
-Voici le logo de l'application EatAPI :
+Voici le logo de l'application EatAPI : ![EatAPI](./logo-EatAPI-2.svg)
 
 ## 🌐 Démo en ligne
 
