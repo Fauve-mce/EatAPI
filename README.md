@@ -19,9 +19,9 @@ L'application propose une interface moderne, simple et responsive, idéale pour 
 
 ## 📸 Aperçu du projet
 
-[image-EatAPI](./demoEatAPI)
+![image-EatAPI](./demoEatAPI)
 
-[image-EatAPI](./demo2EatAPI)
+![image-EatAPI](./demo2EatAPI)
 
 ## 📂 Structure du projet
 
