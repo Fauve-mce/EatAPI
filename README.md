@@ -69,7 +69,7 @@ Voici le logo de l'application EatAPI :
 
 ## 🌐 Démo en ligne
 
-Essayez la version déployée ici : [Github page](https://fauve-mce.github.io/EatAPI/)
+Essayez la version déployée ici : [EatAPI](https://fauve-mce.github.io/EatAPI/)
 
 
 
