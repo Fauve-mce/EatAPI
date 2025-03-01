@@ -52,10 +52,11 @@ Pour en savoir plus, consultez la documentation de TheMealDB.
 
 Pendant le développement d'EatAPI, plusieurs points ont été abordés :
 
-Gestion des requêtes asynchrones : Utilisation d'async/await et de try/catch pour les appels à l'API.
-Manipulation du DOM : Création dynamique d'éléments HTML pour afficher les résultats.
-Design responsive : Mise en place d'une grille flexible en CSS pour une meilleure expérience sur mobile et desktop.
-Validation des entrées : Vérification de la saisie utilisateur pour éviter les recherches vides et améliorer l'expérience.
+- Gestion des requêtes asynchrones : Utilisation d'async/await et de try/catch pour les appels à l'API.
+- Manipulation du DOM : Création dynamique d'éléments HTML pour afficher les résultats.
+- Design responsive : Mise en place d'une grille flexible en CSS pour une meilleure expérience sur mobile et desktop.
+- Validation des entrées : Vérification de la saisie utilisateur pour éviter les recherches vides et améliorer l'expérience.
+
 **Défis rencontrés**
 Empêcher l'affichage de toutes les recettes lors d'une recherche vide.
 Gérer les cas où l'API ne renvoie aucun résultat et afficher un message d'information.
